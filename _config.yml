@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kishore"
+title                    : "Kishore's Home"
 title_separator          : "-"
-name                     : &name "Kishoren"
+name                     : &name "Dr. N. Kishore Babu"
 description              : &description "Dr. N. Kishore Babu"
 url                      : https://academicpages.github.io # "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
