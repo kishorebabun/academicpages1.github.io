@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kishore's Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. N. Kishore Babu"
 description              : &description "Dr. N. Kishore Babu"
